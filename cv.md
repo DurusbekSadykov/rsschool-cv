@@ -18,4 +18,14 @@ function nicknameGenerator(name){
   }
 }
 ```
+###Work experience:
+Nothing yet…
+Education and courses:
+1.	CS50 video course
+2.	JS, CSS, HTML, Git video courses on YouTube channel [Jyldyz Academy](https://www.youtube.com/c/JyldyzAcademy)
+3.	JavaScript https://learn.javascript.ru/
+4.	[CodeWars](https://www.codewars.com/users/DurusbekSadykov) https://www.codewars.com/users/DurusbekSadykov
+5. https://durusbeksadykov.github.io/rsschool-cv/
+###Language:
+English level - A2, trained with [Duolingo](https://www.duolingo.com/learn)
 
